@@ -1,4 +1,4 @@
-# Security Policy
+#*Security Policy
 
 ## Supported Versions
 
@@ -9,3 +9,4 @@ Only the latest release will receive security updates.
 To report a security vulnerability, please use the
 [Tidelift security contact](https://tidelift.com/security). Tidelift will
 coordinate the fix and disclosure.
+ 
